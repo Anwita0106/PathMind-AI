@@ -28,7 +28,7 @@ PathMind AI makes that process visible. You draw a grid (or generate a random ma
 
 It was built as a case study for an undergraduate Artificial Intelligence course on **uninformed** and **informed** search.
 
-> **Note:** PathMind AI is purely algorithmic. There is no training data and no machine-learning model — the grid you draw *is* the input, and every run is deterministic.
+> **Note:** PathMind AI is purely algorithmic. There is no training data and no machine-learning model — the grid you draw *is* the input, and every run is deterministic.          
 
 ---
 
